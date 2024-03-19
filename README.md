@@ -27,7 +27,7 @@ Focused on reinforcing JavaScript fundamentals crucial for React development, in
 - **Exercise**: Implement a currency converter.
 - **Project**: CLI application for user data management.
 
-[🔗 Day 1 Folder](/Day1)
+[🔗 Day 1 Folder](/Day%201%20-%20Javascript%20Essentials%20for%20React)
 
 ### Day 2: Deep Dive into React Basics
 
